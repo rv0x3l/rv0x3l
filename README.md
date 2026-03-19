@@ -1,12 +1,16 @@
 # Привет, я rv0x3l 👋
 
+<img src="https://media.discordapp.net/attachments/1110996489379893320/1217081708892815460/minimalist-python-banner.png?ex=6600c0f8&is=65ee4bf8&hm=c17d7b0f02c48b2e1a3d0f1a4e61a66a166141a1205943a4e93010f3c09f3e53&" alt="Python Banner" width="100%" />
+
+<br/>
+
 <p align="left">
 <img src="https://img.shields.io/badge/Age-17-blue?style=flat-square" alt="Age"> 
 <img src="https://img.shields.io/badge/Location-Russia-red?style=flat-square" alt="Location">
 <img src="https://img.shields.io/badge/Main_Lang-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 </p>
 
-Я **Python-разработчик**, специализируюсь на асинхронных решениях и автоматизации Telegram. Люблю копаться в кишках протоколов и строить быстрые бэкенды.
+Я **Python-разработчик**, специализируюсь на асинхронных решениях и автоматизации Telegram. Люблю копаться в кишках протоколов и строить быстрые бэкенды. В свободное время изучаю то, что «под капотом».
 
 ---
 
@@ -31,6 +35,17 @@
 
 ---
 
+### 🚀 Чем я занимаюсь
+
+| | Деятельность | Технологии |
+| :---: | :--- | :--- |
+| **🤖** | **Пишу телеграмм ботов** | `aiogram`, `Python` |
+| **⚡** | **Пишу модули Heroku (hikka)** | `Telethon`, `Hikka` |
+| **🌐** | **Разрабатываю асинхронные API** | `aiohttp`, `Supabase`, `PostgreSQL` |
+| **⚙️** | **Параллельно изучаю** | Реверс-инжиниринг, низкоуровневая разработка |
+
+---
+
 ### 📊 Активность на GitHub
 
 <p align="left">
@@ -38,15 +53,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rv0x3l&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="170" />
 </p>
 
-
-### 🚀 Чем я занимаюсь
-* 🤖 Пишу телеграмм ботов на **aiogram**.
-* ⚡ Пишу модули heroku (hikka) библиотека: **Telethon**.
-* 🌐 Разрабатываю асинхронные API с использованием **aiohttp** и **Supabase**.
-* ⚙️ Параллельно изучаю реверс-инжиниринг и низкоуровневую разработку.
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rv0x3l&color=0088CC&style=flat-square&label=Profile+views" alt="Profile Views" />
-</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp
+  
