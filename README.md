@@ -1,6 +1,8 @@
 # ⚡ 𝚁𝚅𝟶𝚇𝟹𝙻 — 𝙵𝚞𝚕𝚕𝚜𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0088CC&height=180&section=header&text=rv0x3l&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
+<a href="https://t.me/rv0x3l">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0088CC&height=180&section=header&text=rv0x3l&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
+</a>
 
 <br/>
 
