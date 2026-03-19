@@ -1,6 +1,6 @@
 # Привет, я rv0x3l 👋
 
-<img src="https://media.discordapp.net/attachments/1110996489379893320/1217081708892815460/minimalist-python-banner.png?ex=6600c0f8&is=65ee4bf8&hm=c17d7b0f02c48b2e1a3d0f1a4e61a66a166141a1205943a4e93010f3c09f3e53&" alt="Python Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0088CC&height=200&section=header&text=rv0x3l&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
 
 <br/>
 
