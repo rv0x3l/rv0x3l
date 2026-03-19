@@ -34,9 +34,10 @@
 ### 📊 Активность на GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rv0x3l&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="rv0x3l GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rv0x3l&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="rv0x3l GitHub stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rv0x3l&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="170" />
 </p>
+
 
 ### 🚀 Чем я занимаюсь
 * 🤖 Пишу высокопроизводительных ботов на **aiogram**.
